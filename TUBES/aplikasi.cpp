@@ -201,7 +201,7 @@ void relasiID()
 
     if (search_c==NULL || search_p ==NULL)
     {
-        cout<<"Tidak Terdapat ID Negara / ID Turis"<<endl;
+        cout<<"Tidak Terdapat ID Negara/ID Turis"<<endl;
     }
 
     else if(search_p != NULL && search_c != NULL)
